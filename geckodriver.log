@@ -1340,3 +1340,41 @@ _onJSONObjectReady/<()@transport.js:500
 [Child 15[GPU 1158
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1538827835127	geckodriver	INFO	geckodriver 0.21.0
+1538827835143	geckodriver	INFO	Listening on 127.0.0.1:56500
+1538827838414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tiffany\\AppData\\Local\\Temp\\rust_mozprofile.U0SUqtdhrXSx"
+1538827845378	Marionette	INFO	Listening on port 56509
+1538827845880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538827845923	Marionette	DEBUG	[4294967297] Frame script loaded
+1538827846004	Marionette	DEBUG	[4294967297] Frame script registered
+1538827846155	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538827847939	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538827847949	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost:8000/
+1538827848509	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost:8000/
+1538827850905	Marionette	INFO	Stopped listening on port 56509
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chr[Child 12804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1280[Parent 10800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12124, Chrome_Chil[GPU 8196, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538828359410	geckodriver	INFO	geckodriver 0.21.0
+1538828359425	geckodriver	INFO	Listening on 127.0.0.1:56549
+1538828362469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tiffany\\AppData\\Local\\Temp\\rust_mozprofile.i77Oh69codLa"
+1538828366532	Marionette	INFO	Listening on port 56557
+1538828366987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538828367029	Marionette	DEBUG	[6442450945] Frame script loaded
+1538828367030	Marionette	DEBUG	[6442450945] Frame script registered
+1538828367050	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538828367339	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538828367370	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://localhost:8000/
+1538828367415	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://localhost:8000/
+1538828369844	Marionette	INFO	Stopped listening on port 56557
+[Child 14444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14444, Chrome_C[Child 13708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13708, Chr[Parent 1824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 12300, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
